@@ -61,11 +61,7 @@
 ###
 
 
-###
 
-<img src="https://raw.githubusercontent.com/nottmonk/nottmonk/output/snake.svg" alt="Snake animation" />
-
-###
 
 <!---
 nottmonk/nottmonk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
