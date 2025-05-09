@@ -66,7 +66,7 @@
 
 ### 🐝 Featured Sprite
 <p align="center">
-  <img src="Firewasp.gif" />
+  <img src="firewasp_emoji.gif" />
 </p>
 
 
