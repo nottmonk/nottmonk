@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://sandbox.openai.com/mnt/data/A_pixel_art_digital_banner_features_Corey_Cameron,.png" alt="Corey Cameron Banner" width="100%" />
+  <img src="GitHubBanner.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Corey Cameron</h1>
